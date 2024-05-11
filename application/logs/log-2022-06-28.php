@@ -1,0 +1,74 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-28 12:18:01 --> 404 Page Not Found: /index
+ERROR - 2022-06-28 13:11:53 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:11:53 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:11:53 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:11:53 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:11:53 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:11:53 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:12:08 --> Severity: Notice --> Undefined variable: output /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 105003
+ERROR - 2022-06-28 13:13:04 --> 404 Page Not Found: /index
+ERROR - 2022-06-28 13:15:24 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:15:24 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:15:24 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:15:24 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:15:24 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:15:24 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:52:22 --> 404 Page Not Found: /index
+ERROR - 2022-06-28 13:52:32 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:52:32 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:52:32 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:52:32 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:52:32 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:52:32 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:52:32 --> Severity: Warning --> Missing argument 1 for Flex::backbutton(), called in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 2619 and defined /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php 644
+ERROR - 2022-06-28 13:52:35 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:52:35 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:52:35 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:52:35 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:52:35 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:52:35 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:52:41 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:52:41 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:52:41 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:52:41 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:52:41 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:52:41 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:52:48 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:52:48 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:52:48 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:52:48 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:52:48 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:52:48 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:52:53 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:52:53 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:52:53 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:52:53 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:52:53 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:52:53 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:53:02 --> Severity: Notice --> Undefined variable: output /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 105003
+ERROR - 2022-06-28 13:53:09 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:53:09 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:53:09 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:53:09 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:53:09 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:53:09 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165
+ERROR - 2022-06-28 13:53:13 --> Severity: Notice --> Undefined index: groupId /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 147
+ERROR - 2022-06-28 13:53:13 --> Severity: Notice --> Undefined index: latitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 157
+ERROR - 2022-06-28 13:53:13 --> Severity: Notice --> Undefined index: longitude /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 159
+ERROR - 2022-06-28 13:53:13 --> Severity: Notice --> Undefined index: address /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 161
+ERROR - 2022-06-28 13:53:13 --> Severity: Notice --> Undefined index: title /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 163
+ERROR - 2022-06-28 13:53:13 --> Severity: Notice --> Undefined index: postback /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php 165

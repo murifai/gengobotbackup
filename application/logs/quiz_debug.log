@@ -1,0 +1,312 @@
+[2024-05-07 12:44:01] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 12:44:01] Query Result: stdClass Object
+(
+    [nosoal] => 13
+    [klasifikasi] => isian
+    [soal] => 弟「今日は友達とご飯を食べてくるね。」
+姉「わかった。9時過ぎる＿＿＿、迎えに行くから、電話してね。」
+    [pil_1] => らしいなら
+    [pil_2] => らしいのに
+    [pil_3] => ようなら
+    [pil_4] => ようなのに
+    [kunjaw] => ようなら
+    [penjelasan] => ようなら berarti 'kalau tampaknya'. Bedanya dengan らしい, よう lebih subjektif dan mengandalkan dugaan berdasarkan pengalaman/spekulasi pembicara sendiri.
+「わかった。9時過ぎるようなら、迎えに行くから、電話してね。」
+"Siap. Kalau tampaknya akan lewat dari jam 9, aku akan pergi jemput jadi telfon ya."
+)
+
+[2024-05-07 12:53:35] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 12:53:35] Query Result: stdClass Object
+(
+    [nosoal] => 65
+    [klasifikasi] => bintang
+    [soal] => 京都＿★＿＿思い出します。
+    [pil_1] => 古いお寺
+    [pil_2] => と
+    [pil_3] => を
+    [pil_4] => いうと
+    [kunjaw] => いうと
+    [penjelasan] => 京都というと古いお寺を思い出します。
+)
+
+[2024-05-07 12:55:01] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 12:55:01] Query Result: stdClass Object
+(
+    [nosoal] => 18
+    [klasifikasi] => isian
+    [soal] => ハルトくんは誰に＿＿＿好かれる心のやさしい人です。
+    [pil_1] => とも
+    [pil_2] => でも
+    [pil_3] => へも
+    [pil_4] => をも
+    [kunjaw] => でも
+    [penjelasan] => Kata tanya + でも berarti "~pun" dan berfungsi sebagai kata keterangan.
+「ハルトくんは誰にでも好かれる心のやさしい人です。」
+"Haruto adalah orang berhati baik yang disukai oleh siapapun."
+)
+
+[2024-05-07 13:02:40] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:02:40] Query Result: stdClass Object
+(
+    [nosoal] => 26
+    [klasifikasi] => isian
+    [soal] => ゆうべエアコンを＿＿＿まま寝てしまったので、かぜをひいたようです。
+    [pil_1] => つける
+    [pil_2] => つけた
+    [pil_3] => つけている
+    [pil_4] => つけて
+    [kunjaw] => つけた
+    [penjelasan] => Bentuk ～たまま menunjukkan bahwa sesuatu dibiarkan terjadi dalam kondisi yang tidak berubah.
+「ゆうべエアコンをつけたまま寝てしまったので、かぜをひいたようです。」
+"Karena tadi malam aku tidur dengan membiarkan AC tetap menyala, jadi sekarang aku sepertinya kena flu."
+)
+
+[2024-05-07 13:07:37] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:07:37] Query Result: stdClass Object
+(
+    [nosoal] => 32
+    [klasifikasi] => isian
+    [soal] => 服を買う時はいろいろな店で、まずきて＿＿＿ことにしています。
+    [pil_1] => くる
+    [pil_2] => いく
+    [pil_3] => みる
+    [pil_4] => いる
+    [kunjaw] => みる
+    [penjelasan] => Kata kerja bentuk て＋みる berarti 'mencoba'.
+「服を買う時はいろいろな店で、まずきてみることにしています。」
+"Sebelum membeli pakaian saya memutuskan untuk mencobanya dulu di berbagai toko."
+)
+
+[2024-05-07 13:11:01] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:11:01] Query Result: stdClass Object
+(
+    [nosoal] => 90
+    [klasifikasi] => bintang
+    [soal] => 風呂の★＿＿＿。
+    [pil_1] => ビール
+    [pil_2] => は
+    [pil_3] => あと
+    [pil_4] => にかぎる
+    [kunjaw] => あと
+    [penjelasan] => 風呂のあとはビールにかぎる。
+)
+
+[2024-05-07 13:14:03] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:14:03] Query Result: stdClass Object
+(
+    [nosoal] => 55
+    [klasifikasi] => bintang
+    [soal] => A「今度のパーティーで、みんなで歌う歌は、これでいいですか。」
+B「すみません。この歌は好きなんですが、少しむずかしいです＿＿★＿してほしいです。」
+    [pil_1] => の
+    [pil_2] => ほか
+    [pil_3] => に
+    [pil_4] => から
+    [kunjaw] => の
+    [penjelasan] => すみません。この歌は好きなんですが、少しむずかしいですからほかのにしてほしいです。
+)
+
+[2024-05-07 13:24:27] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:24:27] Query Result: stdClass Object
+(
+    [nosoal] => 48
+    [klasifikasi] => isian
+    [soal] => まさきさんが入院するという＿＿＿を知っていますか。
+    [pil_1] => こと
+    [pil_2] => もの
+    [pil_3] => つもり
+    [pil_4] => とき
+    [kunjaw] => こと
+    [penjelasan] => ～ということだ dalam konteks ini berfungsi menyampaikan informasi yang diperoleh dari orang lain atau media. Berarti 'katanya'.
+「まさきさんが入院するということを知っていますか。」
+"Apakah Anda sudah tahu katanya Masaki-san dirawat di rumah sakit?"
+)
+
+[2024-05-07 13:30:54] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:30:54] Query Result: stdClass Object
+(
+    [nosoal] => 26
+    [klasifikasi] => isian
+    [soal] => ゆうべエアコンを＿＿＿まま寝てしまったので、かぜをひいたようです。
+    [pil_1] => つける
+    [pil_2] => つけた
+    [pil_3] => つけている
+    [pil_4] => つけて
+    [kunjaw] => つけた
+    [penjelasan] => Bentuk ～たまま menunjukkan bahwa sesuatu dibiarkan terjadi dalam kondisi yang tidak berubah.
+「ゆうべエアコンをつけたまま寝てしまったので、かぜをひいたようです。」
+"Karena tadi malam aku tidur dengan membiarkan AC tetap menyala, jadi sekarang aku sepertinya kena flu."
+)
+
+[2024-05-07 13:45:37] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-07 13:45:37] Query Result: stdClass Object
+(
+    [nosoal] => 33
+    [klasifikasi] => isian
+    [soal] => 妻の料理＿＿＿おいしいものはない。
+    [pil_1] => まで
+    [pil_2] => だけ
+    [pil_3] => ほど
+    [pil_4] => さえ
+    [kunjaw] => ほど
+    [penjelasan] => Pola ～ほど～はない berarti 'tidak ada seorangpun/apapun yang dapat melakukan (kata kerja) se(kata sifat) A"
+「妻の料理ほどおいしいものはない。」
+"Tidak ada masakan selezat masakan istri saya."
+)
+
+[2024-05-11 19:08:37] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:08:37] Query Result: stdClass Object
+(
+    [nosoal] => 72
+    [klasifikasi] => bintang
+    [soal] => ＿＿★＿、どの服も安い。
+    [pil_1] => 人気がある
+    [pil_2] => 若い人に
+    [pil_3] => あって
+    [pil_4] => 店だけ
+    [kunjaw] => 店だけ
+    [penjelasan] => 若い人に人気がある店だけあって、どの服も安い。
+)
+
+[2024-05-11 19:23:00] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:23:00] Query Result: stdClass Object
+(
+    [nosoal] => 5
+    [klasifikasi] => isian
+    [soal] => A「ねえ、＿＿＿どんな人？」
+B「とても親切でいい人だよ。」
+    [pil_1] => わたなべさんが
+    [pil_2] => わたなべさんで
+    [pil_3] => わたなべさんって
+    [pil_4] => わたなべさんでも
+    [kunjaw] => わたなべさんって
+    [penjelasan] => って merupakan bentuk percakapan dari という dalam konteks ini berarti 'yang disebut"
+「ねえ、わたなべさんってどんな人？」
+"Hey, Watanabe-san itu orangnya seperti apa?"
+)
+
+[2024-05-11 19:24:27] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:24:27] Query Result: stdClass Object
+(
+    [nosoal] => 95
+    [klasifikasi] => bintang
+    [soal] => 日本語で、＿＿★＿はむずかしい。
+    [pil_1] => 話す
+    [pil_2] => 通りに
+    [pil_3] => 思った
+    [pil_4] => こと
+    [kunjaw] => 話す
+    [penjelasan] => 日本語で、思った通りに話すことはむずかしい。
+)
+
+[2024-05-11 19:27:28] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:27:28] Query Result: stdClass Object
+(
+    [nosoal] => 38
+    [klasifikasi] => isian
+    [soal] => 親＿＿＿、子どもの健康は、いちばん大切なことだ。
+    [pil_1] => によって
+    [pil_2] => にとって
+    [pil_3] => において
+    [pil_4] => について
+    [kunjaw] => にとって
+    [penjelasan] => ～にとって berarti 'bagi'.
+「親にとって、子どもの健康は、いちばん大切なことだ。」
+"Bagi orang tua, kesehatan anaknya adakah hal yang terpenting."
+)
+
+[2024-05-11 19:32:12] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:32:12] Query Result: stdClass Object
+(
+    [nosoal] => 79
+    [klasifikasi] => bintang
+    [soal] => 猫がいなくなって3日になるが、★＿＿＿。
+    [pil_1] => 行ったか
+    [pil_2] => どこに
+    [pil_3] => ない
+    [pil_4] => 調べようが
+    [kunjaw] => どこに
+    [penjelasan] => 猫がいなくなって3日になるが、どこに行ったが調べようがない。
+)
+
+[2024-05-11 19:34:53] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:34:53] Query Result: stdClass Object
+(
+    [nosoal] => 19
+    [klasifikasi] => isian
+    [soal] => 有名な絵がきょうかいのかべ＿＿＿かけてありました。
+    [pil_1] => へ
+    [pil_2] => に
+    [pil_3] => で
+    [pil_4] => と
+    [kunjaw] => に
+    [penjelasan] => に merupakan partikel yang menunjukkan letak/keberadaan.
+「有名な絵がきょうかいのかべにかけてありました。」
+"Lukisan yang terkenal digantung di dinding gereja"
+)
+
+[2024-05-11 19:39:14] Executed Query: SELECT *
+FROM `soaln3`
+ORDER BY rand()
+ LIMIT 1
+[2024-05-11 19:39:14] Query Result: stdClass Object
+(
+    [nosoal] => 77
+    [klasifikasi] => bintang
+    [soal] => 私は★＿＿＿をしていた。
+    [pil_1] => 3年間
+    [pil_2] => サッカー
+    [pil_3] => 高校
+    [pil_4] => を通して
+    [kunjaw] => 高校
+    [penjelasan] => 私は高校3年間を通してサッカーをしていた。
+)
+

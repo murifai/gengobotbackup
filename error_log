@@ -1,0 +1,451 @@
+[19-Dec-2023 02:15:58 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 37942
+[19-Dec-2023 02:19:32 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 37942
+[19-Dec-2023 02:19:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 37942
+[19-Dec-2023 02:19:33 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 37942
+[19-Dec-2023 02:19:34 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 37942
+[19-Dec-2023 04:33:57 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3993
+[08-Apr-2024 17:07:01 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3993
+[21-Apr-2024 23:25:22 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3993
+[21-Apr-2024 23:25:34 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3993
+[06-May-2024 10:18:05 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:18:18 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:01 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:18 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:20 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:23 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:31 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:33 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:34 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:19:45 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:20:14 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:20:15 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:21:28 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:22:33 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:23:00 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 10:32:20 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 11:15:01 Asia/Bangkok] PHP Fatal error:  Call to a member function checkAnswer() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4510
+[06-May-2024 11:17:53 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'QuizModule.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 6
+[06-May-2024 11:17:55 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'QuizModule.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 6
+[06-May-2024 11:18:43 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'Dbs.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 2
+[06-May-2024 11:19:05 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'Dbs.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 2
+[06-May-2024 11:19:08 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required 'Dbs.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 2
+[06-May-2024 11:20:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 4
+[06-May-2024 11:22:15 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 4
+[06-May-2024 11:22:51 Asia/Bangkok] PHP Fatal error:  require_once(): Failed opening required '/home/gengobot/public_html/bot/application/modules/bot/controllers/../module/Dbs.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 2
+[06-May-2024 11:24:06 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:27:58 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:27:59 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:35:00 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:37:06 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:38:37 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:41:02 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:46:02 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:51:05 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 4
+[06-May-2024 11:51:29 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 11:52:41 Asia/Bangkok] PHP Fatal error:  Class 'CI_Model' not found in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 4
+[06-May-2024 12:04:35 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '?' in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 23
+[06-May-2024 12:05:43 Asia/Bangkok] PHP Fatal error:  Call to undefined method QuizModule::isSessionComplete() in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4493
+[06-May-2024 12:09:46 Asia/Bangkok] PHP Fatal error:  Call to undefined method QuizModule::isSessionComplete() in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4493
+[06-May-2024 12:16:53 Asia/Bangkok] PHP Fatal error:  Call to private method QuizModule::generateFlexMessage() from context 'Bot' in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4479
+[06-May-2024 12:23:54 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4507
+[06-May-2024 12:24:46 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '$client' (T_VARIABLE), expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4507
+[06-May-2024 22:13:07 Asia/Bangkok] Setting current question:  for user: default_user_id
+[06-May-2024 22:20:11 Asia/Bangkok] Setting current question:  for user: default_user_id
+[06-May-2024 22:29:00 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4485
+[06-May-2024 22:31:20 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4509
+[06-May-2024 22:34:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4504
+[06-May-2024 22:35:21 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4507
+[06-May-2024 22:36:43 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4507
+[06-May-2024 22:49:23 Asia/Bangkok] PHP Fatal error:  Cannot redeclare QuizModule::getTableForLevel() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 57
+[06-May-2024 22:50:36 Asia/Bangkok] PHP Fatal error:  Cannot redeclare QuizModule::logDebug() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 94
+[06-May-2024 22:51:18 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::logDebug() in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 233
+[06-May-2024 22:52:40 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::logDebug() in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 233
+[06-May-2024 23:00:14 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::getRandomQuestionByTableName() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 29
+[06-May-2024 23:01:42 Asia/Bangkok] PHP Fatal error:  Class 'Dbs' not found in /home/gengobot/public_html/bot/application/third_party/MX/Loader.php on line 228
+[06-May-2024 23:13:40 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4507
+[07-May-2024 01:58:07 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3993
+[07-May-2024 01:58:26 Asia/Bangkok] Setting current question: 1 for user: default_user_id
+[07-May-2024 02:06:08 Asia/Bangkok] Setting current question: 1 for user: default_user_id
+[07-May-2024 02:06:41 Asia/Bangkok] Setting current question: 1 for user: default_user_id
+[07-May-2024 02:09:17 Asia/Bangkok] Setting current question: 1 for user: default_user_id
+[07-May-2024 02:46:49 Asia/Bangkok] Setting current question: 45 for user: default_user_id
+[07-May-2024 02:46:49 Asia/Bangkok] Setting current question: 97 for user: default_user_id
+[07-May-2024 02:52:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '?' in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 93
+[07-May-2024 02:52:51 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ',' in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 93
+[07-May-2024 02:58:32 Asia/Bangkok] Setting current question: 66 for user: default_user_id
+[07-May-2024 02:58:32 Asia/Bangkok] Setting current question: 27 for user: default_user_id
+[07-May-2024 02:59:19 Asia/Bangkok] Setting current question: 48 for user: default_user_id
+[07-May-2024 02:59:19 Asia/Bangkok] Setting current question: 95 for user: default_user_id
+[07-May-2024 03:00:48 Asia/Bangkok] Setting current question: 20 for user: default_user_id
+[07-May-2024 03:00:48 Asia/Bangkok] Setting current question: 89 for user: default_user_id
+[07-May-2024 03:01:29 Asia/Bangkok] Setting current question: 28 for user: default_user_id
+[07-May-2024 03:01:29 Asia/Bangkok] Setting current question: 21 for user: default_user_id
+[07-May-2024 03:02:03 Asia/Bangkok] Setting current question: 21 for user: default_user_id
+[07-May-2024 03:02:03 Asia/Bangkok] Setting current question: 6 for user: default_user_id
+[07-May-2024 03:05:14 Asia/Bangkok] Setting current question: 85 for user: default_user_id
+[07-May-2024 03:05:14 Asia/Bangkok] Setting current question: 39 for user: default_user_id
+[07-May-2024 03:05:59 Asia/Bangkok] Setting current question: 47 for user: default_user_id
+[07-May-2024 03:05:59 Asia/Bangkok] Setting current question: 99 for user: default_user_id
+[07-May-2024 03:13:34 Asia/Bangkok] Setting current question: 79 for user: default_user_id
+[07-May-2024 03:13:34 Asia/Bangkok] Setting current question: 11 for user: default_user_id
+[07-May-2024 03:14:07 Asia/Bangkok] Setting current question: 36 for user: default_user_id
+[07-May-2024 03:14:07 Asia/Bangkok] Setting current question: 1 for user: default_user_id
+[07-May-2024 03:16:07 Asia/Bangkok] Setting current question: 37 for user: default_user_id
+[07-May-2024 03:22:53 Asia/Bangkok] Setting current question: 7 for user: default_user_id
+[07-May-2024 03:26:16 Asia/Bangkok] Setting current question: 86 for user: default_user_id
+[07-May-2024 03:30:34 Asia/Bangkok] Setting current question: 11 for user: default_user_id
+[07-May-2024 03:37:42 Asia/Bangkok] PHP Fatal error:  Class 'QuizModule' not found in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 25
+[07-May-2024 03:43:29 Asia/Bangkok] Setting current question: 61 for user: default_user_id
+[07-May-2024 03:44:24 Asia/Bangkok] Setting current question: 33 for user: default_user_id
+[07-May-2024 03:49:35 Asia/Bangkok] Setting current question: 61 for user: default_user_id
+[07-May-2024 03:51:23 Asia/Bangkok] Setting current question: 87 for user: default_user_id
+[07-May-2024 03:52:24 Asia/Bangkok] Setting current question: 40 for user: default_user_id
+[07-May-2024 03:53:16 Asia/Bangkok] Setting current question: 13 for user: default_user_id
+[07-May-2024 03:54:09 Asia/Bangkok] Setting current question: 88 for user: default_user_id
+[07-May-2024 03:56:04 Asia/Bangkok] Setting current question: 37 for user: default_user_id
+[07-May-2024 03:59:06 Asia/Bangkok] Setting current question: 82 for user: default_user_id
+[07-May-2024 04:02:48 Asia/Bangkok] Setting current question: 90 for user: default_user_id
+[07-May-2024 04:04:56 Asia/Bangkok] Setting current question: 83 for user: default_user_id
+[07-May-2024 04:04:56 Asia/Bangkok] Debug: Question Data: stdClass Object
+(
+    [nosoal] => 83
+    [klasifikasi] => bintang
+    [soal] => アメリカの大学で勉強する場合、＿＿★＿必要です。
+    [pil_1] => スピーキングは
+    [pil_2] => 読み書きも
+    [pil_3] => 英語の
+    [pil_4] => もちろん
+    [kunjaw] => 英語の
+    [penjelasan] => アメリカの大学で勉強する場合、スピーキングはもちろん英語の読み書きも必要です。
+)
+
+[07-May-2024 04:04:56 Asia/Bangkok] Debug: Question Data: Array
+(
+    [type] => bubble
+    [styles] => Array
+        (
+            [header] => Array
+                (
+                    [backgroundColor] => #FFFFFF
+                )
+
+            [body] => Array
+                (
+                    [backgroundColor] => #FFFFFF
+                )
+
+            [footer] => Array
+                (
+                    [backgroundColor] => #FFFFFF
+                )
+
+        )
+
+    [body] => Array
+        (
+            [type] => box
+            [layout] => vertical
+            [spacing] => md
+            [contents] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => box
+                            [layout] => vertical
+                            [contents] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [type] => text
+                                            [text] => 質問 83
+                                            [align] => center
+                                            [size] => xxl
+                                            [weight] => bold
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [type] => text
+                                            [text] => アメリカの大学で勉強する場合、＿＿★＿必要です。
+                                            [wrap] => 1
+                                            [weight] => bold
+                                            [margin] => lg
+                                        )
+
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [type] => separator
+                        )
+
+                    [2] => Array
+                        (
+                            [type] => box
+                            [layout] => vertical
+                            [margin] => lg
+                            [contents] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [type] => box
+                                            [layout] => baseline
+                                            [contents] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => 1.
+                                                            [flex] => 1
+                                                            [size] => lg
+                                                            [weight] => bold
+                                                            [color] => #666666
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => スピーキングは
+                                                            [wrap] => 1
+                                                            [flex] => 9
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [type] => box
+                                            [layout] => baseline
+                                            [contents] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => 2.
+                                                            [flex] => 1
+                                                            [size] => lg
+                                                            [weight] => bold
+                                                            [color] => #666666
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => 読み書きも
+                                                            [wrap] => 1
+                                                            [flex] => 9
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [type] => box
+                                            [layout] => baseline
+                                            [contents] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => 3.
+                                                            [flex] => 1
+                                                            [size] => lg
+                                                            [weight] => bold
+                                                            [color] => #666666
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => 英語の
+                                                            [wrap] => 1
+                                                            [flex] => 9
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [type] => box
+                                            [layout] => baseline
+                                            [contents] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => 4.
+                                                            [flex] => 1
+                                                            [size] => lg
+                                                            [weight] => bold
+                                                            [color] => #666666
+                                                        )
+
+                                                    [1] => Array
+                                                        (
+                                                            [type] => text
+                                                            [text] => もちろん
+                                                            [wrap] => 1
+                                                            [flex] => 9
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [footer] => Array
+        (
+            [type] => box
+            [layout] => horizontal
+            [spacing] => sm
+            [contents] => Array
+                (
+                    [0] => Array
+                        (
+                            [type] => button
+                            [style] => primary
+                            [color] => #FF7376
+                            [height] => sm
+                            [action] => Array
+                                (
+                                    [type] => message
+                                    [label] => スピーキングは
+                                    [text] => スピーキングは
+                                )
+
+                        )
+
+                    [1] => Array
+                        (
+                            [type] => button
+                            [style] => primary
+                            [color] => #FF7376
+                            [height] => sm
+                            [action] => Array
+                                (
+                                    [type] => message
+                                    [label] => 読み書きも
+                                    [text] => 読み書きも
+                                )
+
+                        )
+
+                    [2] => Array
+                        (
+                            [type] => button
+                            [style] => primary
+                            [color] => #FF7376
+                            [height] => sm
+                            [action] => Array
+                                (
+                                    [type] => message
+                                    [label] => 英語の
+                                    [text] => 英語の
+                                )
+
+                        )
+
+                    [3] => Array
+                        (
+                            [type] => button
+                            [style] => primary
+                            [color] => #FF7376
+                            [height] => sm
+                            [action] => Array
+                                (
+                                    [type] => message
+                                    [label] => もちろん
+                                    [text] => もちろん
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+[07-May-2024 04:07:07 Asia/Bangkok] Setting current question: 41 for user: default_user_id
+[07-May-2024 04:07:52 Asia/Bangkok] Setting current question: 43 for user: default_user_id
+[07-May-2024 04:08:39 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 96
+[07-May-2024 04:09:10 Asia/Bangkok] Setting current question: 37 for user: default_user_id
+[07-May-2024 04:11:12 Asia/Bangkok] Setting current question: 20 for user: default_user_id
+[07-May-2024 04:12:25 Asia/Bangkok] Setting current question: 63 for user: default_user_id
+[07-May-2024 04:16:33 Asia/Bangkok] Setting current question: 42 for user: default_user_id
+[07-May-2024 04:18:40 Asia/Bangkok] Setting current question: 74 for user: default_user_id
+[07-May-2024 04:20:40 Asia/Bangkok] Setting current question: 3 for user: default_user_id
+[07-May-2024 04:24:55 Asia/Bangkok] PHP Fatal error:  Class 'Logger' not found in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 44
+[07-May-2024 04:27:09 Asia/Bangkok] PHP Parse error:  syntax error, unexpected ')' in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 104
+[07-May-2024 04:27:30 Asia/Bangkok] Setting current question: 79 for user: default_user_id
+[07-May-2024 04:32:06 Asia/Bangkok] Setting current question: 4 for user: default_user_id
+[07-May-2024 04:32:34 Asia/Bangkok] Setting current question: 58 for user: default_user_id
+[07-May-2024 04:36:12 Asia/Bangkok] Setting current question: 5 for user: default_user_id
+[07-May-2024 04:36:12 Asia/Bangkok] Setting current question: 65 for user: default_user_id
+[07-May-2024 04:38:48 Asia/Bangkok] Setting current question: 23 for user: default_user_id
+[07-May-2024 04:38:48 Asia/Bangkok] Setting current question: 7 for user: default_user_id
+[07-May-2024 04:39:32 Asia/Bangkok] Setting current question: 84 for user: default_user_id
+[07-May-2024 04:39:32 Asia/Bangkok] Setting current question: 88 for user: default_user_id
+[07-May-2024 04:40:18 Asia/Bangkok] Setting current question: 60 for user: default_user_id
+[07-May-2024 04:40:18 Asia/Bangkok] Setting current question: 43 for user: default_user_id
+[07-May-2024 04:41:30 Asia/Bangkok] Setting current question: 89 for user: default_user_id
+[07-May-2024 04:41:30 Asia/Bangkok] Setting current question: 27 for user: default_user_id
+[07-May-2024 04:42:09 Asia/Bangkok] Setting current question: 41 for user: default_user_id
+[07-May-2024 04:44:40 Asia/Bangkok] Setting current question: 49 for user: default_user_id
+[07-May-2024 04:45:35 Asia/Bangkok] Setting current question: 73 for user: default_user_id
+[07-May-2024 04:48:18 Asia/Bangkok] Setting current question: 13 for user: default_user_id
+[07-May-2024 04:50:45 Asia/Bangkok] Setting current question: 69 for user: default_user_id
+[07-May-2024 04:54:53 Asia/Bangkok] Setting current question: 38 for user: default_user_id
+[07-May-2024 04:55:13 Asia/Bangkok] Setting current question: 25 for user: default_user_id
+[07-May-2024 05:14:47 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'log_message' (T_STRING), expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 77
+[07-May-2024 05:18:22 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::where() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 78
+[07-May-2024 05:19:31 Asia/Bangkok] PHP Fatal error:  Call to undefined method QuizModule::setCurrentQuestion() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 68
+[07-May-2024 05:40:02 Asia/Bangkok] PHP Parse error:  syntax error, unexpected '?' in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 83
+[07-May-2024 05:40:32 Asia/Bangkok] Setting current question: 35 for user: default_user_id
+[07-May-2024 05:43:41 Asia/Bangkok] PHP Fatal error:  Call to undefined method QuizModule::setCurrentQuestion() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 67
+[07-May-2024 05:47:21 Asia/Bangkok] Setting current question: 66 for user: default_user_id
+[07-May-2024 05:48:46 Asia/Bangkok] Setting current question: 3 for user: default_user_id
+[07-May-2024 06:00:39 Asia/Bangkok] Setting current question: 98 for user: default_user_id
+[07-May-2024 12:36:11 Asia/Bangkok] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 24
+[07-May-2024 12:36:50 Asia/Jakarta] PHP Fatal error:  Call to a member function startNewSession() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4477
+[07-May-2024 12:55:04 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::getTableForLevel() in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 281
+[07-May-2024 13:07:42 Asia/Bangkok] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::getCurrentQuestion() in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4500
+[07-May-2024 13:11:07 Asia/Bangkok] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::getCurrentQuestion() in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4502
+[07-May-2024 13:20:36 Asia/Bangkok] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/gengobot/public_html/bot/application/modules/bot/controllers/Bot.php on line 4525
+[07-May-2024 13:42:00 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::updateQuizSession() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 26
+[07-May-2024 13:42:42 Asia/Bangkok] PHP Fatal error:  Call to undefined method Dbs::updateQuizSession() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 26
+[07-May-2024 13:44:44 Asia/Bangkok] PHP Fatal error:  Cannot redeclare Dbs::saveFinalScore() in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 355
+[08-May-2024 12:08:08 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[08-May-2024 12:08:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[08-May-2024 12:08:25 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[08-May-2024 12:09:30 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[08-May-2024 12:09:34 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[10-May-2024 07:28:21 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[10-May-2024 07:28:38 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[10-May-2024 07:28:46 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[10-May-2024 07:29:13 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[10-May-2024 07:29:16 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[10-May-2024 07:29:22 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[11-May-2024 19:38:31 Asia/Bangkok] PHP Fatal error:  Call to undefined method QuizModule::updateQuizSession() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 30
+[11-May-2024 19:52:11 Asia/Bangkok] PHP Fatal error:  Cannot redeclare Dbs::updateQuizSession() in /home/gengobot/public_html/bot/application/modules/bot/models/Dbs.php on line 364
+[11-May-2024 19:53:24 Asia/Bangkok] PHP Fatal error:  Cannot redeclare QuizModule::endSession() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 91
+[11-May-2024 19:54:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method MY_Loader::updateQuizSession() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 18
+[11-May-2024 19:56:26 Asia/Jakarta] PHP Fatal error:  Call to undefined method MY_Loader::getRandomQuestionByTableName() in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 51
+[11-May-2024 19:59:29 Asia/Jakarta] PHP Fatal error:  Call to a member function latihan() on null in /home/gengobot/public_html/bot/application/modules/bot/controllers/quiz.php on line 85
+[11-May-2024 20:24:04 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
+[11-May-2024 20:40:05 Asia/Bangkok] PHP Fatal error:  Cannot redeclare class Flex in /home/gengobot/public_html/bot/application/modules/bot/controllers/flex.php on line 3954
